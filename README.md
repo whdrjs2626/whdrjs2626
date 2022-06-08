@@ -38,4 +38,7 @@ Here are some ideas to get you started:
 
 <br/>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whdrjs2626&show_icons=true&theme=radical)
+
 </div>
