@@ -24,7 +24,7 @@ Here are some ideas to get you started:
    
     안녕하세요! 근성있고 성장하는 개발자를 꿈꾸는 박종건이라고 합니다. 😎
     더 좋은 백엔드 개발자가 되기 위해 노력하고 있습니다.
-    이곳을 통해 성장하는 저에 대해 알아보실 수 있습니다.🦾
+    이곳을 통해 성장하는 저에 대해 알아보실 수 있습니다. 🦾
 <br/>
 
 ## 💻 Tech Stacks 💻
@@ -43,9 +43,9 @@ Here are some ideas to get you started:
    <img alt="AWS" src ="https://img.shields.io/badge/AWS-333664.svg?&style=for-the-badge&logo=Amazon&logoColor=white"/> </br>
    
 
-
-
 <br/>
+
+## 🖥 Github 🖥
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whdrjs2626&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
